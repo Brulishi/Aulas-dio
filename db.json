@@ -59,6 +59,16 @@
       "urlIMDB": "",
       "genero": "Comédia",
       "id": 6
+    },
+    {
+      "titulo": "teste",
+      "urlFoto": "",
+      "dtLancamento": "2022-01-11T03:00:00.000Z",
+      "descricao": "",
+      "nota": 5,
+      "urlIMDB": "",
+      "genero": "Romance",
+      "id": 7
     }
   ]
 }
