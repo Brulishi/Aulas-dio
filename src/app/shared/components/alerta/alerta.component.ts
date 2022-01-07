@@ -28,7 +28,7 @@ export class AlertaComponent implements OnInit {
             this.alerta.btnSucesso = this.data.btnSucesso || this.alerta.btnSucesso;
             this.alerta.btnCancelar = this.data.btnCancelar || this.alerta.btnCancelar;
             this.alerta.corBtnSucesso = this.data.corBtnSucesso|| this.alerta.corBtnSucesso;
-            this.alerta.corBtnCancelar = this.data.corCancelar|| this.alerta.corBtnCancelar;
+            this.alerta.corBtnCancelar = this.data.corBtnCancelar|| this.alerta.corBtnCancelar;
             this.alerta.possuirBtnFechar = this.data.possuirBtnFechar|| this.alerta.possuirBtnFechar;
 
         }
