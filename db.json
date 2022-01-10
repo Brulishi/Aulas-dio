@@ -109,6 +109,16 @@
       "urlIMDB": null,
       "genero": "Romance",
       "id": 11
+    },
+    {
+      "titulo": "A Arte da Conquista",
+      "urlFoto": "https://www.imdb.com/title/tt1645080/mediaviewer/rm3419781376/?ref_=tt_ov_i",
+      "dtLancamento": "2011-10-14T03:00:00.000Z",
+      "descricao": "George, um adolescente solitário que chegou ao seu último ano sem ter feito um dia de trabalho real, torna-se amigo de Sally, uma garota popular, mas complicada, que reconhece nele um espírito de união.\n\n",
+      "nota": 6.6,
+      "urlIMDB": "https://www.imdb.com/title/tt1645080/",
+      "genero": "Drama",
+      "id": 12
     }
   ]
 }
