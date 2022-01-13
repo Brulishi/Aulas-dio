@@ -74,7 +74,7 @@ this.cadastro.markAllAsTouched();
         } else{
           this.reiniciarForm();
         }
-      })
+      });
     },
     () => {  const config = {
       data: {

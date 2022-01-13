@@ -73,42 +73,12 @@
     {
       "titulo": "teste",
       "urlFoto": "",
-      "dtLancamento": "2022-01-12T03:00:00.000Z",
-      "descricao": "",
-      "nota": 5,
-      "urlIMDB": "",
-      "genero": "Romance",
-      "id": 8
-    },
-    {
-      "titulo": "teste",
-      "urlFoto": "",
       "dtLancamento": "2022-01-05T03:00:00.000Z",
       "descricao": "",
       "nota": 0,
       "urlIMDB": "",
       "genero": "Romance",
       "id": 9
-    },
-    {
-      "titulo": "teste",
-      "urlFoto": "",
-      "dtLancamento": "2022-01-11T03:00:00.000Z",
-      "descricao": "",
-      "nota": 0,
-      "urlIMDB": "",
-      "genero": "Romance",
-      "id": 10
-    },
-    {
-      "titulo": "teste",
-      "urlFoto": null,
-      "dtLancamento": "2022-01-12T03:00:00.000Z",
-      "descricao": null,
-      "nota": 5,
-      "urlIMDB": null,
-      "genero": "Romance",
-      "id": 11
     },
     {
       "titulo": "A Arte da Conquista",
