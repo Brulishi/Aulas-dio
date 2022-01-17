@@ -4,6 +4,7 @@ import { Observable } from 'rxjs';
 import { Filme } from '../shared/models/filme';
 import { ConfigParamsService } from './config-params.service';
 import { ConfigPrams } from '../shared/models/config-prams';
+import { identifierModuleUrl } from '@angular/compiler';
 
 const url = "  http://localhost:3000/filmes/";
 
@@ -15,9 +16,14 @@ export class FilmesService {
   constructor(private http: HttpClient,
     private configService: ConfigParamsService) { }
 
-  salvar(filme: Filme): Observable <Filme>{
+salvar(filme: Filme): Observable <Filme>{
 return this.http.post<Filme>(url, filme);
   }
+
+editar(filme: Filme): Observable<Filme> {
+  return this.http.put<Filme>(url + filme.id, filme);
+}
+
 
 listar(config:ConfigPrams): Observable<Filme[]>{
  const ConfigPrams = this.configService.configurarParametros(config);
